@@ -1,2 +1,1 @@
-console.log("Ejecutando el ssistema);
-            
+console.log("Ejecutando el ssistema")
